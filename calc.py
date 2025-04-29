@@ -4,7 +4,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.interpolate import LinearNDInterpolator
 import streamlit as st
-pip install matplotlib
 
 # Initialize the uploaded illustration data (simplified for now)
 # Each entry: (Start Age, Monthly Contribution, Age Milestone, Cash Value, Death Benefit)
